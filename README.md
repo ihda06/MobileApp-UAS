@@ -7,9 +7,9 @@ Front-end
 KickOut Store
 
 Screen
-#-HomeScreen
-#-DetailPage
-#-Confirmation
-#-Succes
-#-Profile
-#-About
+#HomeScreen
+#DetailPage
+#Confirmation
+#Succes
+#Profile
+#About
