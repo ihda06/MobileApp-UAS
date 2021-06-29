@@ -6,7 +6,7 @@ Front-end
 
 KickOut Store
 
-Screen :/n
+Screen : 
 #HomeScreen
 #DetailPage
 #Confirmation
